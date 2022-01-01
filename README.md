@@ -1,6 +1,6 @@
 Zeyaa Music Application
 
-•	Zeyaa is a digital music, podcast, and video service and audio streaming that gives you access to millions of songs and other content from creators all over the world. 
+•	Zeyaa is a digital music, podcast, and audio service and audio streaming that gives you access to millions of songs and other content from creators all over the world. 
 Objective
 
 •	Build a website to allow users to share their favorite music with the world
