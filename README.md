@@ -15,4 +15,4 @@ Implementation
 
 •	This web application is implemented using nodejs, html, express, and vanilla javascript
 
-•	Database using mongo atlas
+•	Database using mongoose
